@@ -1,0 +1,1 @@
+select sum (total_price)  AS Total_Revenue from pizza_sales
